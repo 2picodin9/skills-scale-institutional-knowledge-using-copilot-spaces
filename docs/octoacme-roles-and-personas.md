@@ -190,7 +190,7 @@ The Operations or Platform Representative ensures that a solution can be support
 ### How this role interacts with existing personas
 - Works with Technical Leads and Developers to confirm deployment and supportability requirements
 - Coordinates with Project Managers to sequence operational readiness activities
-- Supports Release and Quality roles in validating readiness prior to production deployment
+- Supports Release and Quality roles in validating readiness prior to production deployments
 - Helps Product Owners understand long-term operational impact and support costs
 
 ### Goals
